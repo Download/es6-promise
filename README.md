@@ -1,5 +1,7 @@
 # ES6-Promise (subset of [rsvp.js](https://github.com/tildeio/rsvp.js))
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/es6-promise.svg)](https://greenkeeper.io/)
+
 This is a polyfill of the [ES6 Promise](http://people.mozilla.org/~jorendorff/es6-draft.html#sec-promise-constructor). The implementation is a subset of [rsvp.js](https://github.com/tildeio/rsvp.js), if you're wanting extra features and more debugging options, check out the [full library](https://github.com/tildeio/rsvp.js).
 
 For API details and how to use promises, see the <a href="http://www.html5rocks.com/en/tutorials/es6/promises/">JavaScript Promises HTML5Rocks article</a>.
